@@ -36,5 +36,5 @@ WHERE Nombre = 'Queen';
 
 -- Eliminar los registros no actualizados previamente
 DELETE FROM GruposRock
-WHERE Nombre NOT IN ('Led Zeppelin', 'Queen');
+WHERE Nombre NOT IN ('Led Zeppelin');
 
